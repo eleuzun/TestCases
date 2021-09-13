@@ -35,5 +35,23 @@ User: info & Pass: info1
 
 ------------------
 
+**Description:**
+Check if the login works when a person uses a correct user/pass and the Remember Me checkbox is on/pressed.
 
+ **Steps to Reproduce**
+1. Go to www.website.com/login
+2. Add a correct user/pass
+3. Press the Remember Me checkbox
+4. Press Login button
+5. Close the page
+6. Go to login again
+
+**Expected Result:**
+User should be able to login and is taken to his profile page.
+User should be able to acces his profile page without login credentials after he closes his profile page.
+
+**Test Data:**
+User:radu & Pass:123456
+
+---------------------
 
