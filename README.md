@@ -75,7 +75,7 @@ Check if the search box is working by typing a product by it”s name.
 
 **Steps to Reproduce:**
 1. Go to emag.ro
-2.Type a correct product name in the Search Box
+2. Type a correct product name in the Search Box
 3. Click on the Search Icon
 
 **Expected Result:**
@@ -91,15 +91,15 @@ Check if the search box is working by typing random letters.
 
 **Steps to Reproduce:**
 1. Go to emag.ro
-2.Type some randome letters
+2. Type some randome letters
 3. Click on the Search Icon
 
 **Expected Result:**
 The page will display zero results with few advises :
 
-*check if you spelled the term correctly.
-*try using synonyms.
-*try again, using a more general search.
+check if you spelled the term correctly.
+try using synonyms.
+try again, using a more general search.
 
 **Test Data:** 
 Insert: asasasa
