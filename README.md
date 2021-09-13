@@ -95,11 +95,7 @@ Check if the search box is working by typing random letters.
 3. Click on the Search Icon
 
 **Expected Result:**
-The page will display zero results with few advises :
-
-check if you spelled the term correctly.
-try using synonyms.
-try again, using a more general search.
+The page will display zero results with few advises:check if you spelled the term correctly; try using synonyms; try again, using a more general search.
 
 **Test Data:** 
 Insert: asasasa
