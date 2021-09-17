@@ -101,3 +101,32 @@ The page will display zero results with few advises: check if you spelled the te
 Insert: asasasa
 
 ----------------------
+**Description:**
+
+Check if a product can be added to wishlist.
+
+**Steps to Reproduce:**
+
+1) Go to https://libris.ro/
+
+2) Add a correct user/pass
+
+3) Press Login Button
+
+4) Type a correct product name in the Search Box
+
+5) Click on the Search Icon
+
+6) Click on the product
+
+7) Click on Add to wishlist icon
+
+8) Click on Wishlist 
+
+**Expected Result:**
+
+The user should be able to add a product to Wishlist.
+
+**Test Data:**
+
+Insert: Fluturi Volumul 1 
