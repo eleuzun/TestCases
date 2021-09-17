@@ -129,4 +129,4 @@ The user should be able to add a product to Wishlist.
 
 **Test Data:**
 
-Insert: Fluturi Volumul 1 
+Insert: user: uzun_elena@yahoo.com; pass: 123456; search box input: Fluturi Volumul 1 
