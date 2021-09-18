@@ -130,3 +130,47 @@ The user should be able to add a product to Wishlist.
 **Test Data:**
 
 Insert: user: uzun_elena@yahoo.com; pass: 123456; search box input: Fluturi Volumul 1 
+
+----------------------
+
+**Description:**
+
+Check if the API works when introducing a correct city name.
+
+**Steps to Reporduce:**
+
+1) Launch the app Postman
+
+2) Click on Collections
+
+3) Click on Create new collection and add a name
+
+4) Press Save button
+
+5) Click on Add a Request to start working
+
+6) Insert a name for the new request
+
+7) Enter the URL of API to test in the URL textbox
+
+8) Select the HTTP method (GET)
+
+9) For each KEY insert a VALUE
+
+10) Click the Send button to start the test
+
+**Expected Result:**
+
+The response is valid and and all the keys are correct.
+
+**Test Data:**
+
+Insert : Collection name : Weather, Add a request name: Get weather by city name,  API URL: 
+
+api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
+
+key: q, value: london
+
+key: appid, value: f3f34dfbc6243e6a57dbca12f16d3740
+
+ 
