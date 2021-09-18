@@ -161,7 +161,7 @@ Check if the API works when introducing a correct city name.
 
 **Expected Result:**
 
-The response is valid and and all the keys are correct.
+The response is valid and and all the keys have the correct value.
 
 **Test Data:**
 
