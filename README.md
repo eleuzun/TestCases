@@ -28,7 +28,7 @@ Check if the login works when a person uses a wrong user/pass.
 3. Press Login button
 
 **Expected Result:**
-User should not be able to login. There will be an error message ”User or Password is wrong”
+User should not be able to login. There will be an error message ”User or Password is wrong”.
 
 **Test Data:**
 User: info & Pass: info1
